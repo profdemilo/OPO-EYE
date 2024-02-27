@@ -1,5 +1,3 @@
-let Mbone
-let Willy
-let Fabiola
-let Jane
-let Sama
+let promise
+let eugene
+let billy
