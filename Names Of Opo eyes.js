@@ -1,5 +1,9 @@
-let promise=98
-let violet=100
-let lydia=100
+let DromiseNjume=9
+let VioletMbaku =10
+let LydiaEkema=10
 
 let Answer = promise+violet+lydia
+
+let Elvis
+let carosyl
+let Junior
